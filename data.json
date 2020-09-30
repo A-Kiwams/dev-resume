@@ -51,5 +51,17 @@
       "linkedin": "damue-brandon-bawe",
       "github": "brandonbawe"
     }
+	{
+	  "id": 4,
+	  "imageName": "akiwams.png",
+	  "name": "Alhassan Kiwamdeen",
+      "role": "Mobile - Web Developer",
+      "about": "A web developer, tech blogger and technical content writter",
+      "funfact": "Work in silence, Success will speak on your behalf",
+      "twitter": "akiwams",
+      "facebook": "Kiwam Alhassan",
+      "linkedin": "Alhassan Kiwamdeen",
+  	  "github": "A-Kiwams"
+	}
   ]
 }
